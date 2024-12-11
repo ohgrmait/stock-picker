@@ -5,7 +5,7 @@
 </div>
 
 ## About
-`stock_picker` is a classic "intro to programming problem" wherein the method `stock_picker(stock_prices)` takes in an array of stock prices and returns a pair of days representing the best day to buy and the best day to sell.[^1]
+`stock-picker` is a classic "intro to programming problem" wherein the method `stock_picker(stock_prices)` takes in an array of stock prices and returns a pair of days representing the best day to buy and the best day to sell.[^1]
 
 [^1]: [This project](https://www.theodinproject.com/lessons/ruby-stock-picker) is from the [Ruby Course](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/ruby) in [The Odin Project](https://www.theodinproject.com/about).
 
