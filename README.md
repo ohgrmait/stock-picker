@@ -21,7 +21,6 @@
 - ***CLI***
 - ***Ruby***
 - ***GitHub***
-- ***GitHub Pages***
 
 ## Self Reflections
 - > I ended up choosing the [Full Stack Ruby on Rails](https://www.theodinproject.com/paths/full-stack-ruby-on-rails) path. As a result, I've started with the [Ruby Course](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/ruby) and learned quite a lot of things like basic data types, variables, input and output, conditional logic, loops, arrays, hashes, methods, debugging, basic and predicate enumerable methods, and nested collections.
